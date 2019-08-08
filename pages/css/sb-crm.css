@@ -1,0 +1,5 @@
+a.text-info:focus,
+a.text-info:hover {
+  color: #101028 !important;
+  text-decoration: underline;
+}
